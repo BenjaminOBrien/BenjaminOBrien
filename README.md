@@ -5,6 +5,7 @@ This is my school account for related repositories, my primary account is [@ii-P
 
 ⌨️ Projects:
 - FTW Drone Competition | [Source](https://github.com/BenjaminOBrien/ftw)
+- NJROTC Robotics Website | [Source](https://github.com/BenjaminOBrien/bravo-comp-website)
 
 💪🏻 Skills:
 - Python 2.7/3+
